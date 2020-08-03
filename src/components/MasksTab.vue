@@ -36,7 +36,6 @@ export default {
             { value: "+44808XXXXXXX", labels: ["Free", "GB/UK"] },
             //Italy
             { value: "+39066XXXXX", labels: ["Geographical", "Italy"] },
-            { value: "+39330XXXXXXX", labels: ["National", "Italy"] },
             { value: "+39800XXXXXX", labels: ["Free", "Italy"] },
             //Germany
             { value: "+493023XXXXX", labels: ["Geographical", "Germany"] },
