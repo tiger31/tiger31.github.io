@@ -46,6 +46,9 @@ export default {
             { value: "+311044XXXXX", labels: ["Geographical", "Netherland"] },
             { value: "+316200XXXXX", labels: ["National", "Netherland"] },
             { value: "+318008XXXXXX", labels: ["Free", "Netherland"] },
+            //Australia
+            { value: "+6128XXXXXXX", labels: ["Geographical", "Australia"] },
+            { value: "+611800XXXXXX", labels: ["Free", "Australia"] },
         ],
         filterLabels: [],
         userMasks: [],
